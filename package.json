@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test app used just for testing purposes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarekTTG/test.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Tarek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarekTTG/test/issues"
+  },
+  "homepage": "https://github.com/TarekTTG/test#readme"
+}
