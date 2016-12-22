@@ -1,6 +1,10 @@
-# test
-this repo is used just for testing purposes
-to deploy to heroku
+# JS Functions
+simple usable JS functions
+feel free to fork and add-to any function
+
+
+this repo is also used for testing and deployment purposes (using HEROKU)
+
 
 1- Create package.json using npm init
    the package.json file we must include the engines dependency, the engines key tells heroku which version of node's version to run our app
